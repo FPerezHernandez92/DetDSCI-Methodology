@@ -1,0 +1,18 @@
+{
+   "useful_objects_small": [
+      "substation",
+      "plane",
+      "helicopter",
+      "bridge",
+      "storage-tank",
+      "harbor"
+   ],
+   "useful_objects_large": [
+      "airport",
+      "train_station",
+      "bridge",
+      "industrial",
+      "harbor",
+      "motorway"
+   ]
+}
